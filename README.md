@@ -95,6 +95,7 @@ To create two datacenters with one host each and execute cloudlets from two user
 Execution Time = Cloudlet Length / VM MIPS
 
 ## Program 
+```java
 /*
  * Title:        CloudSim Toolkit
  * Description:  CloudSim (Cloud Simulation) Toolkit for Modeling and Simulation
@@ -335,8 +336,7 @@ public class CloudSimExample4 {
 
 	}
 }
-
-
+```
 
  
 
@@ -347,6 +347,8 @@ Cloudlet 1 | Length: 40000 | VM: 1 | Datacenter: 3 | Time: 80.0
 Cloudlet 2 | Length: 60000 | VM: 0 | Datacenter: 2 | Time: 120.0
 Cloudlet 3 | Length: 80000 | VM: 1 | Datacenter: 3 | Time: 160.0
 
+
+<img width="714" height="335" alt="image" src="https://github.com/user-attachments/assets/268f8d87-3b9b-4213-8128-ef0b92ce4f81" />
 
 
 
